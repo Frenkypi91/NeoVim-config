@@ -1,0 +1,5 @@
+-- ~/.config/nvim/init.lua  (Fra)
+require("config.lazy")
+require("config.options")
+require("config.autocmds")
+require("config.keymaps")
